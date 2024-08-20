@@ -1,0 +1,5 @@
+Prepare failed: Table 'enquêteur.projects' doesn't exist
+Prepare failed: Table 'enquêteur.projects' doesn't exist
+Prepare failed: Unknown column 'numcin' in 'field list'
+Error executing statement: Got a packet bigger than 'max_allowed_packet' bytes
+Error executing statement: MySQL server has gone away
